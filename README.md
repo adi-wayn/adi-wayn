@@ -75,7 +75,7 @@
 - **physics**: Studying mechanics and electricity for tech applications.
 - **advanced analysis**: Learning complex analysis, Fourier, and Laplace transforms for signal processing.
 - **sql and databases**: Focusing on efficient data management and query optimization.
-- Software Engineering: Learning methodologies for software design, product planning, and app development through the PawPals project.
+- **software engineering**: Learning methodologies for software design, product planning, and app development through the PawPals project.
 - **computer architecture**: Understanding hardware-software interaction for better performance.
 - **algorithms**: Optimizing algorithm design for real-world problem-solving.
 
