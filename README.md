@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me:
-- 👨‍🎓 I'm a **second-year Computer and Software Engineering student** at Ariel University.
+- 👨‍🎓 I'm a **third-year Computer and Software Engineering student** at Ariel University.
 - 💻 I have experience mainly in **Java** and **Python**, and I'm always learning more!
 - 💡 My main interests lie in **algorithms**, **AI**, **software development**, and **mathematics**.
 
@@ -68,16 +68,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi-wayn&" alt="adi-wayn" />
 </p>
-
----
-
-### 🌱 What I'm Learning:
-- **physics**: Studying mechanics and electricity for tech applications.
-- **advanced analysis**: Learning complex analysis, Fourier, and Laplace transforms for signal processing.
-- **sql and databases**: Focusing on efficient data management and query optimization.
-- **software engineering**: Learning methodologies for software design, product planning, and app development through the PawPals project.
-- **computer architecture**: Understanding hardware-software interaction for better performance.
-- **algorithms**: Optimizing algorithm design for real-world problem-solving.
 
 ---
 
